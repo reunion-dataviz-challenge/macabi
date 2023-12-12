@@ -2,7 +2,7 @@
 
 ## Nettoyage et traitement des données
 
-Le fichier *nettoyage_belt.ipynb* permet de traiter le jeu de donnée *belt*
+Le fichier *nettoyage_belt.ipynb* permet de traiter le jeu de donnée *belt*  
 Le fichier *nettoyage.ipynb* permet de traiter le jeu de donnée *lit*
 
 
